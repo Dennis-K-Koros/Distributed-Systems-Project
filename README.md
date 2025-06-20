@@ -1,17 +1,3 @@
-Great! Below is a well-structured and complete `README.md` tailored to your **ICS 4104 Load Balancer Assignment** project (`DockerTest`). You can paste this directly into your repo’s `README.md` file.
-
----
-
-### ✅ Create or Edit the README File
-
-```bash
-nano README.md
-```
-
-Paste the following content:
-
----
-
 # 🌀 ICS 4104: Distributed Systems - Load Balancer Project
 
 This project implements a **customizable load balancer** using Docker and Python (Flask) as part of the ICS 4104 Distributed Systems assignment. It uses **consistent hashing** and can dynamically **spawn/remove server containers**, monitor heartbeat endpoints, and ensure even load distribution across replicas.
