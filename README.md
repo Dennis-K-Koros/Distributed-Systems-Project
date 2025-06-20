@@ -34,7 +34,6 @@ DockerTest/
 │   ├── A2_scalability_chart.png        # Line chart showing average server load from N=2 to N=6
 │   ├── A3_failure_recovery_log.txt       # Simulated log of server failure and auto-recovery
 │   ├── A4_hash_function_comparison,png       # Bar chart comparing hash function load balance (std dev)
-│   ├── analysis.py        # For initiating analysis
 │   ├── report.md       # Written summary of for A-1 to A-4
 │   └── test_a1.py        # For testing server requests
 ├── docker-compose.yml   # Composition of the load balancer container
