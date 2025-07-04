@@ -21,7 +21,7 @@ DockerTest/
 │   ├── A3_failure_recovery_log.txt       # Simulated log of server failure and auto-recovery
 │   ├── A4_hash_function_comparison,png       # Bar chart comparing hash function load balance (std dev)
 │   ├── report.md       # Written summary of for A-1 to A-4
-│   └── test_a1.py        # For testing server requests
+│   └── test_request_distribution.py        # For testing server requests
 ├── docker-compose.yml   # Composition of the load balancer container
 ├── Makefile             # Commands for build, run, shutdown
 └── README.md
